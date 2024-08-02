@@ -7,7 +7,7 @@ Preview: https://www.youtube.com/watch?v=hLdJGADAV24
 
 qb-core
 
-qb-target
+ox_target
 
-# For any support or questions about other scripts join our discord server! https://discord.com/invite/tKsUXpCyWF
+# For any support or questions about this script dm me on discord ljay_on_top.
 
