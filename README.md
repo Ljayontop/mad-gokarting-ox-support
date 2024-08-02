@@ -1,9 +1,13 @@
-mad-gokarting
-Simple karting script for QBCORE
+Mad-gokarting Simple karting script for QBCORE 
 
-Preview: https://www.youtube.com/watch?v=hLdJGADAV24
 
-Dependency
-qb-core
+Preview: https://www.youtube.com/watch?v=hLdJGADAV24 
 
-ox_target
+
+Dependency  
+
+ 
+qb-core 
+
+ox_target 
+
